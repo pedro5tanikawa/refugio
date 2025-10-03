@@ -20,5 +20,6 @@ console.log(num1*num2);
 let cidade = 'Nova.I';
 let país = 'brasa';
 console.log('minha cidade e meu país de origem são: ',cidade+' '+país);
+let uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu = 100
 
 
